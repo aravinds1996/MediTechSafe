@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your mac
 	Libraries:
 
 	1. Angular Material
-	2. 	Charts Module 
+	2. Charts Module 
 
 Commands:
 
