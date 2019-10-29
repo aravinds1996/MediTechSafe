@@ -39,7 +39,7 @@ Commands:
 
   1.app-routing.module.ts - Path and Component are defined.
   2.Index.html     - Main HTML with the HTML5 Doc Type
-	3.app.component.html - Index file from which al the other compoonents are referred.
+   3.app.component.html - Index file from which al the other compoonents are referred.
   4.module.ts- Imports all the angular material libraries for navbar and charts. 
   5.Dashboard Component has it's own html and module.ts component referenced to  app.component.html
   6.Department-List Component also has it's own html and module.ts component referenced to  app.component.html
